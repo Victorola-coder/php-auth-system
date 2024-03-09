@@ -10,7 +10,7 @@
 </head>
 <body>
     <h1>Welcome to Simple Auth App</h1>
-    <p><a href="pages/register.php">Register</a></p>
-    <p><a href="pages/login.php">Login</a></p>
+    <p><a href="./register.php">Register</a></p>
+    <p><a href="./login.php">Login</a></p>
 </body>
 </html>
